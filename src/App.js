@@ -17,6 +17,7 @@ function App() {
         {/* <GreetingF name="Josué"></GreetingF> */}
         {/*Componente de Listado de Tareas*/}
         {/*Componente de Listado de Tareas <TaskListComponent></TaskListComponent> */}
+        {/*Componente de Contactos*/}
         <ContactListComponent></ContactListComponent>
 
 
